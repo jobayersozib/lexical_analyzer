@@ -1,0 +1,17 @@
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\bin\Debug\lexicalanalysis.exe
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\bin\Debug\lexicalanalysis.pdb
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.Form1.resources
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.Properties.Resources.resources
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.exe
+C:\Users\jobayer\Desktop\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.pdb
+D:\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.exe
+D:\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.pdb
+D:\New folder\lexicalanalysis\lexicalanalysis\bin\Debug\lexicalanalysis.exe
+D:\New folder\lexicalanalysis\lexicalanalysis\bin\Debug\lexicalanalysis.pdb
+D:\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.csprojResolveAssemblyReference.cache
+D:\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.Form1.resources
+D:\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.Properties.Resources.resources
+D:\New folder\lexicalanalysis\lexicalanalysis\obj\x86\Debug\lexicalanalysis.csproj.GenerateResource.Cache
